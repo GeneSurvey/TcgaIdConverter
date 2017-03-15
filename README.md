@@ -1,3 +1,17 @@
+# This repository has been superseded.
+
+Please use the following repositories.
+
+https://github.com/MD-Anderson-Bioinformatics/GeneSurvey
+
+https://github.com/MD-Anderson-Bioinformatics/ReadMatrixRcpp
+
+https://github.com/MD-Anderson-Bioinformatics/GSAccess
+
+# ***********************************************************************
+# BELOW IS SUPERSEDED
+# ***********************************************************************
+
 # TcgaIdConverter
 
 This is for educational and research purposes only. 
